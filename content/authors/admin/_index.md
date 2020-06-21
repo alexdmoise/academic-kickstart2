@@ -27,7 +27,7 @@ interests:
 - Health Policy and Inequalities
 - Data Analysis and Visualization
 - Causal Inerence in Social Sciences
-- Populism, Clientelism and Corruption
+- Populism & Clientelism
 
 education:
   courses:
