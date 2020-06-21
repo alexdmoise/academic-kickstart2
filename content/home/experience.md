@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -17,28 +17,49 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Instructor for Summer/Online Schools"
+  company = "European Consortium for Political Research"
+  company_url = "https://ecpr.eu/SummerSchool"
+  location = "Budapest"
+  date_start = "2019-08-01"
+  date_end = "2020-08-31"
   description = """
-  Responsibilities include:
+  Courses
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Introduction to R
+  * Applied Regression Analysis
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Visiting Professor"
+  company = "Ilia State University"
+  company_url = "https://iliauni.edu.ge/en/"
+  location = "Tbilisi"
+  date_start = "2019-10-01"
+  date_end = "2020-08-01"
+  description = """
+  Courses
+  
+  * Research Design
+  * Global Political Economy
+  * Public Policy and Party Politics
+  * 21st Century Challenges in Global Politics
+  """
+  
+  
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Central European University"
+  company_url = "https://www.ceu.edu/"
+  location = "Budapest"
+  date_start = "2015-01-01"
+  date_end = "2017-12-31"
+  description = """Teaching assistant for several courses in Statistics and Political Economy."""
+  
+  
+  
 +++
