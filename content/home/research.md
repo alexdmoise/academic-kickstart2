@@ -19,20 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[experience]]
-  title = "Instructor for Summer/Virtual Schools"
-  company = "European Consortium for Political Research"
-  company_url = "https://ecpr.eu/SummerSchool"
-  location = "Budapest"
-  date_start = "2019-08-01"
-  date_end = "2020-08-31"
-  description = """
-  Courses
-  
-  * Introduction to R
-  * Applied Regression Analysis
-  """
-
 
 [[experience]]
   title = "Max Weber Postdoctoral Fellow"
@@ -47,13 +33,13 @@ date_format = "Jan 2006"
   
   
 [[experience]]
-  title = "Teaching Assistant"
-  company = "Central European University"
-  company_url = "https://www.ceu.edu/"
-  location = "Budapest"
-  date_start = "2015-01-01"
-  date_end = "2017-12-31"
-  description = """Teaching assistant for several courses in Statistics and Political Economy."""
+  title = "International Research Fellow"
+  company = "Caucasus Research Resource Center"
+  company_url = "https://crrc.ge/en/international-fellowship/2020/"
+  location = "Tbilisi"
+  date_start = "2020-01-15"
+  date_end = "2020-03-15"
+  description = """Survey Research"""
   
   
   
