@@ -15,9 +15,9 @@ role: Political Economist
 # Organizations/Affiliations
 organizations:
 - name: European University Institute
-  url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
+  url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2020-2021/MOISE-Alexandru"
 - name: Central European University
-  url: "https://www.ceu.edu/"
+  url: "https://dsps.ceu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the politics of social policy, social inequalities, electoral politics and more generally in data analysis and visualization.
