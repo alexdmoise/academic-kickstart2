@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
@@ -35,19 +35,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Visiting Professor"
-  company = "Ilia State University"
-  company_url = "https://iliauni.edu.ge/en/"
-  location = "Tbilisi"
-  date_start = "2019-10-01"
-  date_end = "2020-08-01"
+  title = "Max Weber Postdoctoral Fellow"
+  company = "European University Institute"
+  company_url = "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
+  location = "Florence"
+  date_start = "2020-09-01"
+  date_end = "2022-08-31"
   description = """
-  Courses
-  
-  * Research Design
-  * Global Political Economy
-  * Public Policy and Party Politics
-  * 21st Century Challenges in Global Politics
+  Mentor: Ellen M. Immergut
   """
   
   
