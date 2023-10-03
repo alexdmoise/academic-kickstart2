@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[experience]]
+  title = "Research Fellow - SOLID ERC"
+  company = "European University Institute"
+  company_url = "https://solid-erc.eu/"
+  location = "Florence"
+  date_start = "2022-01-01"
+  date_end = "2025-06-01"
+  description = """
+  Principal Investigators: Hanspeter Kriesi, Waltraud Schelkle, Maurizio Ferrera
+  """
+  
 
 [[experience]]
   title = "Max Weber Postdoctoral Fellow"
