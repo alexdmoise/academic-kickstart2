@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   company_url = "https://ecpr.eu/SummerSchool"
   location = "Budapest"
   date_start = "2019-08-01"
-  date_end = "2020-08-31"
+  date_end = "Ongoing"
   description = """
   Courses
   
