@@ -31,6 +31,17 @@ date_format = "Jan 2006"
   """
 
 
+  [[experience]]
+  title = "CIVICA Project Partnet: WELDECO - Welfare, Democracy, and Populism under the COVID-19 Crisis"
+  company = "European University Institute"
+  company_url = "https://www.civica.eu/civicaresearch/blog/detail/ceu-led-civica-research-project-welfare-democracy-and-populism-under-the-covid-19-crisis-presents-work-at-eui/"
+  location = "Florence"
+  date_start = "2021-01-01"
+  date_end = "2023-01-01"
+  description = """
+  Partner Universities: Central European University, Bocconi University, London School of Economics. Principal Investigator, Dorottya Szikra.
+  """
+
 [[experience]]
   title = "Max Weber Postdoctoral Fellow"
   company = "European University Institute"
@@ -41,7 +52,8 @@ date_format = "Jan 2006"
   description = """
   Mentor: Ellen M. Immergut
   """
-  
+
+
   
 [[experience]]
   title = "International Research Fellow"
