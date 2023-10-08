@@ -19,8 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+  [[experience]]
+  title = "Part-time Assistant Professor in Quantitative Methods"
+  company = "European University Institute"
+  company_url = "https://www.eui.eu/en/academic-units/political-and-social-sciences"
+  location = "Florence"
+  date_start = "2021-09-01"
+  date_end = "2022-01-01"
+  description = """
+  Course
+
+  * Introduction to Quantitative Methods
+  """
+
+
+  [[experience]]
+  title = "Adjunct Professor"
+  company = "Johns Hopkins University, SAIS"
+  company_url = "https://sais.jhu.edu/"
+  location = "Bologna"
+  date_start = "2021-09-01"
+  date_end = "2021-12-31"
+  description = """
+  Course
+
+  * Quantitative Methods for Risk Analysis
+  
+  """
+
+
+
 [[experience]]
-  title = "Instructor for Summer/Virtual Schools"
+  title = "Instructor for Summer/Winter Schools"
   company = "European Consortium for Political Research"
   company_url = "https://ecpr.eu/SummerSchool"
   location = "Budapest"
@@ -29,6 +60,7 @@ date_format = "Jan 2006"
   description = """
   Courses
   
+  * Bayesian Statistics
   * Introduction to R
   * Applied Regression Analysis
   """
