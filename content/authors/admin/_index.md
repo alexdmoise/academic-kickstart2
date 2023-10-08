@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Political Economist
+role: Political Scientist
 
 # Organizations/Affiliations
 organizations:
 - name: European University Institute
-  url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2020-2021/MOISE-Alexandru"
+  url: "https://www.eui.eu/people?id=alexandru-daniel-moise"
 - name: Central European University
   url: "https://dsps.ceu.edu/"
 
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a political economist working on the politics of social policy. I am particularly interested in the dynamics behind health inequalities and their repercussions. I am currently a Max Weber Fellow at the European University Institute.
+I'm a political scientist working on the politics of social policy and institutional trust. I am currently a Research Fellow at the European University Institute, working in the SOLID Project (Policy Crisis and Crisis Politics Sovereignty, Solidarity and Identity in the EU Post 2008. PI's: Hanspeter Kriesi, Waltraud Schelkle, Maurizio Ferrera).
 
-I received my PhD from Central European University in September 2019. My dissertation looked at how clientelism and partisanship influenced access to healthcare in 17 Eastern and Southern E.U. member states.
+I received my PhD from Central European University in September 2019. My dissertation looked at how clientelism and partisanship influenced access to healthcare in 17 Eastern and Southern E.U. member states. I was previously a Max Weber Fellow and part-time Assistant Professor at the EUI, teaching quantitative methods. I also teache Regression Analysis, Programming with R, and Bayesian Statistics at the European Consortium for Political Research’s Summer and Winter Schools in Methods
