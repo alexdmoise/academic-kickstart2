@@ -30,7 +30,4 @@
     url = "files/cv.pdf"
     weight = 70
 
-[[main]]
-  name = "Scribbles"
-  url = "#fiction"
-  weight = 80
+
