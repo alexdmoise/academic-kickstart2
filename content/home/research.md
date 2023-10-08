@@ -29,7 +29,17 @@ date_format = "Jan 2006"
   description = """
   Principal Investigators: Hanspeter Kriesi, Waltraud Schelkle, Maurizio Ferrera
   """
-  
+
+
+  [[experience]]
+  title = "Part-time Assistant Professor in Quantitative Methods"
+  company = "European University Institute"
+  company_url = "https://www.eui.eu/en/academic-units/political-and-social-sciences"
+  location = "Florence"
+  date_start = "2021-09-01"
+  date_end = "2022-01-01"
+  description = """
+  """
 
 [[experience]]
   title = "Max Weber Postdoctoral Fellow"
