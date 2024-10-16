@@ -33,9 +33,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Co-PI Health Reform Discourse and Ideology in Crisis"
-  company = "British Academy/Leverhulme Grant"
-  company_url = " "
-  location = "European University Institute"
+  company = "European University Institute"
+  company_url = "https://www.eui.eu/people?id=alexandru-daniel-moise"
+  location = "British Academy/Leverhulme Grant"
   date_start = "2024-01-01"
   date_end = "2025-12-31"
   description = """
