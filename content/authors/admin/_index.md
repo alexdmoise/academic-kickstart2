@@ -23,11 +23,11 @@ organizations:
 bio: I am interested in the politics of social policy, social inequalities, electoral politics and more generally in data analysis and visualization.
 
 interests:
-- Political Economy
+- Political Institutions
+- Populism & Clientelism
 - Health Policy and Inequalities
 - Data Analysis and Visualization
 - Causal Inference in Social Sciences
-- Populism & Clientelism
 
 education:
   courses:
