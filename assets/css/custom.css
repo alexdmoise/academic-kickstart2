@@ -1,0 +1,4 @@
+/* Hide filter bar on publications page */
+.w-filter-bar {
+  display: none !important;
+}
