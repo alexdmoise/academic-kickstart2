@@ -6,7 +6,7 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
+view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
@@ -61,8 +61,7 @@ header:
 - Moise, A.D., Dennison, J., Kriesi, H., "What makes Ukrainian refugees different from other refugees in the eyes of Europeans?" 2023 [European Politics and Policy Blog, London School of Economics](https://blogs.lse.ac.uk/europpblog/2023/11/17/what-makes-ukrainian-refugees-different-from-other-refugees-in-the-eyes-of-europeans/).
 - Moise, A.D., Oana, I.-E. “Acceptance of Refugees and Solidarity in the EU” 2022 [MPC Blog](https://blogs.eui.eu/migrationpolicycentre/acceptance-of-refugees-and-solidarity-in-the-eu/).
 - Oana, I.-E., Moise, A.D. “How unified are Europeans’ views on the war in Ukraine?” 2022, [EUIdeas](https://euideas.eui.eu/2022/05/19/how-unified-are-europeans-views-on-the-war-in-ukraine/).
-- Moise, A.D., Popic, T., “Coronavirus: why is eastern Europe’s second wave so much worse than its first?” 2020, [The Conversation](https://theconversation.com/coronavirus-why-is-eastern-europes-second-wave-so-much-worse-than-its-first-
-150430).
+- Moise, A.D., Popic, T., “Coronavirus: why is eastern Europe’s second wave so much worse than its first?” 2020, [The Conversation](https://theconversation.com/coronavirus-why-is-eastern-europes-second-wave-so-much-worse-than-its-first-150430).
 - Moise, A.D., ”Romanian Public Health System in a Continous Change” (Romanian). 2016, [Open Politics](
 https://www.openpolitics.ro/subiect/alegeri-2016/sanatate-2/).
 
