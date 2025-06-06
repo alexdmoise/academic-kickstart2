@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Publications"
+  url = "publications"
+  weight = 30  # Adjust weight to change order in the navbar
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
