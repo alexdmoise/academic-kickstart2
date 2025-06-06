@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Publications"
-  url = "publications"
+  url = "publication"
   weight = 30  # Adjust weight to change order in the navbar
 
 [[main]]
