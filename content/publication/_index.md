@@ -46,8 +46,23 @@ header:
 
 <br><br>
 
-**Book Chapters**
+**Book Chapters and Other Publications**
 
 - Burlacu, D., Moise, A.D. Romania. In E. M. Immergut, K. M. Anderson, C. Devitt, T. Popic (Eds.), “Health Politics in Europe: A Handbook”. 2021, [Oxford University Press](https://academic.oup.com/book/41221?login=true).
 - Moise, A.D., Scheiring, G., and Loblova, O., Populism and Healthcare in Hungary. in Falkenbach, Michelle and Scott L. Greer, eds., "The Populist Radical Right and Health: National Policies and Global Trends.", 2021, London: [Springer-Nature](https://link.springer.com/book/10.1007/978-3-030-70709-5).
 - Zabdyr-Jamróz, M., Kowalska-Bobko I., Loblova O., Moise A.D., The Populist Radical Right and Health in Poland. in Falkenbach, Michelle and Scott L. Greer, eds. "The Populist Radical Right and Health: National Policies and Global Trends." 2021 London: [Springer-Nature](https://link.springer.com/book/10.1007/978-3-030-70709-5).
+- Popic, T., Moise, A.D., "Health system resilience in the context of the COVID-19 pandemic: the gap between Eastern and Western Europe", 2021 [STG Resilience Papers](https://hdl.handle.net/1814/71699).
+- Moise, A.D. "Researching the Welfare Impact of Populist Radical Right Parties", 2020, [International Journal of Health Policy Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC9056194/).
+
+<br><br>
+
+**Media Publications**
+
+- Moise, A.D., Dennison, J., Kriesi, H., "What makes Ukrainian refugees different from other refugees in the eyes of Europeans?" 2023 [European Politics and Policy Blog, London School of Economics](https://blogs.lse.ac.uk/europpblog/2023/11/17/what-makes-ukrainian-refugees-different-from-other-refugees-in-the-eyes-of-europeans/).
+- Moise, A.D., Oana, I.-E. “Acceptance of Refugees and Solidarity in the EU” 2022 [MPC Blog](https://blogs.eui.eu/migrationpolicycentre/acceptance-of-refugees-and-solidarity-in-the-eu/).
+- Oana, I.-E., Moise, A.D. “How unified are Europeans’ views on the war in Ukraine?” 2022, [EUIdeas](https://euideas.eui.eu/2022/05/19/how-unified-are-europeans-views-on-the-war-in-ukraine/).
+- Moise, A.D., Popic, T., “Coronavirus: why is eastern Europe’s second wave so much worse than its first?” 2020, [The Conversation](https://theconversation.com/coronavirus-why-is-eastern-europes-second-wave-so-much-worse-than-its-first-
+150430).
+- Moise, A.D., ”Romanian Public Health System in a Continous Change” (Romanian). 2016, [Open Politics](
+https://www.openpolitics.ro/subiect/alegeri-2016/sanatate-2/).
+
