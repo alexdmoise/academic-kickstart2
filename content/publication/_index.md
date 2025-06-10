@@ -17,8 +17,8 @@ header:
 
 **Book Monographs**
 
-- Oana, I-E, Moise, A.D., Truchlewski, Z. 2025. “EU polity-building in the aftermath of the Russian invasion of Ukraine”.[Cambridge Elements in European Politics. Cambridge University Press]((https://www.cambridge.org/core/elements/demand-for-eu-polity-building-in-the-shadow-of-the-russian-threat/A5D13AB578DED4D35C623B87DA4F8B92)).
-- Truchlewski, Z., Oana, I-E., Moise, A.D., Kriesi, H. 2025. “Pandemic Polity-Building: How Covid-19 Shaped the European Union.”[Oxford University Press.]((https://www.amazon.it/Pandemic-Polity-Building-Covid-19-Shaped-European/dp/0198951515))
+- Oana, I-E, Moise, A.D., Truchlewski, Z. 2025. “EU polity-building in the aftermath of the Russian invasion of Ukraine”.[Cambridge Elements in European Politics. Cambridge University Press](https://www.cambridge.org/core/elements/demand-for-eu-polity-building-in-the-shadow-of-the-russian-threat/A5D13AB578DED4D35C623B87DA4F8B92).
+- Truchlewski, Z., Oana, I-E., Moise, A.D., Kriesi, H. 2025. “Pandemic Polity-Building: How Covid-19 Shaped the European Union.”[Oxford University Press.](https://www.amazon.it/Pandemic-Polity-Building-Covid-19-Shaped-European/dp/0198951515)
 
 <br><br>
 
