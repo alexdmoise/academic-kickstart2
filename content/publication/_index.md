@@ -58,6 +58,8 @@ header:
 
 **Media Publications**
 
+- Moise, A.D. “Tra le macerie della guerra, un’Europa da ricostruire/Amid the rubble of war, a
+Europe to be rebuilt.” 2025. [Pubblico - Fondazione Giangiacomo Feltrinelli.](https://fondazionefeltrinelli.it/pubblico/tra-le-macerie-della-guerra-europa-da-ricostruire-2/)
 - Moise, A.D., Dennison, J., Kriesi, H., "What makes Ukrainian refugees different from other refugees in the eyes of Europeans?" 2023 [European Politics and Policy Blog, London School of Economics](https://blogs.lse.ac.uk/europpblog/2023/11/17/what-makes-ukrainian-refugees-different-from-other-refugees-in-the-eyes-of-europeans/).
 - Moise, A.D., Oana, I.-E. “Acceptance of Refugees and Solidarity in the EU” 2022 [MPC Blog](https://blogs.eui.eu/migrationpolicycentre/acceptance-of-refugees-and-solidarity-in-the-eu/).
 - Oana, I.-E., Moise, A.D. “How unified are Europeans’ views on the war in Ukraine?” 2022, [EUIdeas](https://euideas.eui.eu/2022/05/19/how-unified-are-europeans-views-on-the-war-in-ukraine/).
