@@ -14,13 +14,14 @@ role: Political Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Spanish National Research Council (CSIC)
+  url: "https://ipp.csic.es/en/welcome-ipp"
 - name: European University Institute
   url: "https://www.eui.eu/people?id=alexandru-daniel-moise"
-- name: Central European University
-  url: "https://dsps.ceu.edu/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in trust in political institutions, the politics of social policy, electoral politics and more generally in data analysis and visualization.
+bio: I am interested in trust in political institutions, political trust, the politics of social policy, electoral politics and more generally in data analysis and visualization.
 
 interests:
 - Political Trust
@@ -75,9 +76,9 @@ user_groups:
 - Visitors
 ---
 
-I'm a political scientist working on crisis politics and institutional trust. I am currently a Research Fellow at the European University Institute, working in the SOLID Project (Policy Crisis and Crisis Politics Sovereignty, Solidarity and Identity in the EU Post 2008. PI's: Hanspeter Kriesi, Waltraud Schelkle, Maurizio Ferrera).
+I'm a political scientist working on crisis politics and institutional trust. I am currently a Ramon y Cajal Fellow (tenure-track) at the Institute for Public Goods and Policies (IPP) Spanish National Research Council (CSIC) in Madrid. Previously, I was a Research Fellow at the European University Institute, working in the [SOLID Project](https://solid-erc.eu/). I was also a Max Weber Fellow and part-time Assistant Professor at the European University Institute, teaching quantitative methods.
 
-My research received the 2024 Gordon Smith and Vincent Wright Memorial Prize in West European Politics. In addition, my research can be found in the Journal of Political Behavior, the British Journal of Political Science, the Journal of European Public Policy, and Oxford and Cambridge University Press, among others. I received my PhD from Central European University in September 2019. I was previously a Max Weber Fellow and part-time Assistant Professor at the European University Institute, teaching quantitative methods.
+My research received the 2024 Gordon Smith and Vincent Wright Memorial Prize in West European Politics. In addition, my research can be found in the Journal of Political Behavior, the British Journal of Political Science, the Journal of European Public Policy, and Oxford and Cambridge University Press, among others. I received my PhD from Central European University in 2019. 
 
 See my list of [publications](https://www.alexandrumoise.com/publication/).
 Download my [CV](https://www.alexandrumoise.com/files/cv.pdf).
