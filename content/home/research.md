@@ -20,12 +20,24 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Ramon y Cajal Fellow (tenure-track)"
+  company = "Institute for Public Goods and Policies (IPP)"
+  company = "Spanish National Research Council (CSIC)"
+  company_url = "[https://solid-erc.eu/](https://ipp.csic.es/en/welcome-ipp)"
+  location = "Madrid"
+  date_start = "2026-01-01"
+  date_end = ""
+  description = """
+   """
+
+
+[[experience]]
   title = "Research Fellow - SOLID ERC"
   company = "European University Institute"
   company_url = "https://solid-erc.eu/"
   location = "Florence"
   date_start = "2022-01-01"
-  date_end = "2025-06-01"
+  date_end = "2025-12-31"
   description = """
   Principal Investigators: Hanspeter Kriesi, Waltraud Schelkle, Maurizio Ferrera
   """
