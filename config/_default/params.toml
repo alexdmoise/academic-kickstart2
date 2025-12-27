@@ -93,11 +93,11 @@ email = "alex.dmoise@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Via dei Roccettini, 9", city = "San Domenico di Fiesole", country = "Italy", country_code = "IT"}
+address = {street = "Calle Albasanz 26", city = "Madrid", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.802178", longitude = "11.283411"}
+coordinates = {latitude = "40.438006", longitude = "-3.687917"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -273,7 +273,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 15
 
