@@ -21,13 +21,13 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ramon y Cajal Fellow (tenure-track)"
-  company = "Institute for Public Goods and Policies (IPP)"
   company = "Spanish National Research Council (CSIC)"
   company_url = "[https://solid-erc.eu/](https://ipp.csic.es/en/welcome-ipp)"
   location = "Madrid"
   date_start = "2026-01-01"
   date_end = ""
   description = """
+  Institute for Public Goods and Policies (IPP)
    """
 
 
