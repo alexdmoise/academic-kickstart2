@@ -26,10 +26,9 @@ bio: I am interested in trust in political institutions, political trust, the po
 interests:
 - Political Trust
 - Political Institutions
+- European Politics
 - Populism & Clientelism
 - Health Policy and Inequalities
-- Data Analysis and Visualization
-- Causal Inference in Social Sciences
 
 education:
   courses:
