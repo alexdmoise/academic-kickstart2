@@ -15,7 +15,7 @@ role: Political Scientist
 # Organizations/Affiliations
 organizations:
 - name: Spanish National Research Council (CSIC)
-  url: "https://ipp.csic.es/en/welcome-ipp"
+  url: "https://ipp.csic.es/es/personal/alexandru-daniel-moise"
 - name: European University Institute
   url: "https://www.eui.eu/people?id=alexandru-daniel-moise"
 
