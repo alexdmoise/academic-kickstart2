@@ -14,8 +14,10 @@ role: Political Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Institute for Public Goods and Policies (IPP)
+- url: "https://ipp.csic.es/es/personal/alexandru-daniel-moise"
 - name: Spanish National Research Council (CSIC)
-  url: "https://ipp.csic.es/es/personal/alexandru-daniel-moise"
+  url:  "https://www.csic.es/en"
 
 
 # Short bio (displayed in user profile at end of posts)
