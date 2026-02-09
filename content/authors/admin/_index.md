@@ -16,8 +16,6 @@ role: Political Scientist
 organizations:
 - name: Spanish National Research Council (CSIC)
   url: "https://ipp.csic.es/es/personal/alexandru-daniel-moise"
-- name: European University Institute
-  url: "https://www.eui.eu/people?id=alexandru-daniel-moise"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,9 +48,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:alex.dmoise@gmail.com".
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/alex.dmoise
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=vO1v2DAAAAAJ&hl=en
