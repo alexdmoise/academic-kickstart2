@@ -29,6 +29,7 @@ header:
 <br><br>
 
 **Peer Reviewed Articles**
+- Moise, A.D., " 'Don’t Know, Don’t Care?' How information and institutional reform affect voting in supranational elections: Experimental evidence from the 2024 European Parliamentary elections", 2026, European Political Science Review, forthcoming.
 - Moise, A.D., Huebscher, E., "'Get the Shot, or Else!’ Policy Coercion and Institutional Trust are Compensatory for Vaccine Uptake", 2026, [European Journal of Political Research](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/get-the-shot-or-else-policy-coercion-and-institutional-trust-are-compensatory-for-vaccine-uptake/96DA8AD420952C94DA6A562B9020C129?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark).
 - Truchlewski, Z., Moise, A.D., Oana, I.-E., "Policy legacies and cueing in the European Union during COVID-19", 2026, [Journal of European Public Policy](https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2625278).
 - Moise, A.D., Oana, I.-E., Truchlewski, Z., Wang, C., “Two Functionalist Logics of EU Polity Building Under External Threat, Evidence from a Conjoint Experiment”, 2025, [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165251320870).
