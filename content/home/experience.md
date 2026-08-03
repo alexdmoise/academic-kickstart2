@@ -20,6 +20,21 @@ date_format = "Jan 2006"
 
 
 
+ [[experience]]
+  title = "Visiting Faculty"
+  company = "IE University, School of Politics, Economics and Global Affairs"
+  company_url = "https://www.ie.edu/school-politics-economics-global-affairs/"
+  location = "Madrid"
+  date_start = "2026-09-01"
+  date_end = "2026-12-31"
+  description = """
+  Courses
+
+  * Research Methods in IR
+  * Technology II
+  """
+
+
   [[experience]]
   title = "Part-time Assistant Professor in Quantitative Methods"
   company = "European University Institute"
@@ -39,8 +54,8 @@ date_format = "Jan 2006"
   company = "Johns Hopkins University, SAIS"
   company_url = "https://sais.jhu.edu/"
   location = "Bologna"
-  date_start = "2021-09-01"
-  date_end = "2022-12-31"
+  date_start = "2021-08-30"
+  date_end = "2023-12-31"
   description = """
   Course
 
