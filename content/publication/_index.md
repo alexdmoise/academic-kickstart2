@@ -20,16 +20,12 @@ header:
 - Oana, I-E, Moise, A.D., Truchlewski, Z. 2025. “EU polity-building in the aftermath of the Russian invasion of Ukraine”.[Cambridge Elements in European Politics. Cambridge University Press](https://www.cambridge.org/core/elements/demand-for-eu-polity-building-in-the-shadow-of-the-russian-threat/A5D13AB578DED4D35C623B87DA4F8B92).
 - Truchlewski, Z., Oana, I-E., Moise, A.D., Kriesi, H. 2025. “Pandemic Polity-Building: How Covid-19 Shaped the European Union.”[Oxford University Press.](https://www.amazon.it/Pandemic-Polity-Building-Covid-19-Shaped-European/dp/0198951515)
 
-<br><br>
-
-**Special Issues**
-- Moise, A.D., & Wang, C . 2025. Division and unity: Voter and party perspectives on EU integration under external threat. [European Union Politics](https://doi.org/10.1177/14651165251318950)
-- Moise, A.D., Natili, M., Oana, I-E., Truchlewski, Z., Visconti, F., Wang, C. 2023. “Introduction: EU polity building after the Russian invasion of Ukraine”.[Debate Section in Journal of European Public Policy.](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2205442)
 
 <br><br>
 
 **Peer Reviewed Articles**
-- Moise, A.D., " 'Don’t Know, Don’t Care?' How information and institutional reform affect voting in supranational elections: Experimental evidence from the 2024 European Parliamentary elections", 2026, European Political Science Review, forthcoming.
+- Moise, A.D., " 'Don’t Know, Don’t Care?' How information and institutional reform affect voting in supranational elections: Experimental evidence from the 2024 European Parliamentary elections", 2026, [European Political Science Review](https://www.cambridge.org/core/journals/european-political-science-review/article/dont-know-dont-care-how-information-and-institutional-reform-affect-voting-in-supranational-elections-experimental-evidence-from-the-2024-european-parliamentary-elections/095C8D2F7ADB563D484941A856549BC8).
+- Moise, A.D., Oana, I.-E., Truchlewski, Z., "Polity Building Outside-In: The Impact of Threat and Economic Vulnerability on Demand-Side Support for EU Defence Centralisation", 2026, [Journal of Common Market Studies](https://onlinelibrary.wiley.com/doi/10.1111/jcms.70144)
 - Moise, A.D., Huebscher, E., "'Get the Shot, or Else!’ Policy Coercion and Institutional Trust are Compensatory for Vaccine Uptake", 2026, [European Journal of Political Research](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/get-the-shot-or-else-policy-coercion-and-institutional-trust-are-compensatory-for-vaccine-uptake/96DA8AD420952C94DA6A562B9020C129?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark).
 - Truchlewski, Z., Moise, A.D., Oana, I.-E., "Policy legacies and cueing in the European Union during COVID-19", 2026, [Journal of European Public Policy](https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2625278).
 - Moise, A.D., Oana, I.-E., Truchlewski, Z., Wang, C., “Two Functionalist Logics of EU Polity Building Under External Threat, Evidence from a Conjoint Experiment”, 2025, [European Union Politics](https://journals.sagepub.com/doi/full/10.1177/14651165251320870).
@@ -46,6 +42,14 @@ header:
 - Truchlewski, Z., Oana, I.-E., Moise, A.D., “A missing link? Maintaining support for the European polity after the Russian invasion of Ukraine”, 2023, [Journal of European Public Policy](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2218419).
 - Wang, C., Moise, A.D., “A unified autonomous Europe? Public opinion of the EU’s foreign and security policy”, 2023, [Journal of European Public Policy](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2217230).
 - Popic, T., Moise, A.D., “Government responses to the COVID-19 pandemic in eastern and Western Europe: the role of health, political and economic factors”, 2022, [East European Politics](https://www.tandfonline.com/doi/full/10.1080/21599165.2022.2122050).
+
+
+<br><br>
+
+**Special Issues**
+- Moise, A.D., & Wang, C . 2025. Division and unity: Voter and party perspectives on EU integration under external threat. [European Union Politics](https://doi.org/10.1177/14651165251318950)
+- Moise, A.D., Natili, M., Oana, I-E., Truchlewski, Z., Visconti, F., Wang, C. 2023. “Introduction: EU polity building after the Russian invasion of Ukraine”.[Debate Section in Journal of European Public Policy.](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2205442)
+
 
 <br><br>
 
